@@ -9,51 +9,57 @@ Research Software Engineer
 ## Profile
 
 Diligent and meticulous with a strong, broad academic background and a thirst for knowledge.
-Highly skilled in analysis of complex data sets, and computer programming. A confident teacher
-with excellent written English, and ability to clearly explain complex ideas. A natural problem
-solver, able to learn new skills quickly.
+Highly skilled in computer programming, and analysis of complex data sets.
+A confident teacher with excellent written English, and ability to clearly explain complex ideas.
+A natural problem solver, and able to learn new skills quickly.
 
 
 ## Skills
 
-### Programming
-MATLAB, Python, Fortran, Git, Bash, Make, LaTeX
+### Languages
+Python, MATLAB, Bash, LaTeX, Markdown, Fortran (html, css)
+
+### Frameworks/tools/packages/approaches
+Git, Make, SGE, Modulefiles, vectorisation, parallel programming, clean coding, OOP, TDD
 
 ### Teaching
-- Developed teaching materials and delivered training courses on a range of research computing subjects
+- Experienced instructor of 100+ training courses on Git, Make, Bash, MATLAB, LaTeX
 - Certified instructor for Software Carpentry
-- Regular contributor to Software Carpentry lesson materials
 - Certified instructor trainer for Software Carpentry
+- Regular contributor to Software Carpentry lesson materials
 
-### Analytical thinking
-Writing and debugging code, diagnosing software problems, scientific analysis, diagnosing faults with scientific equipment
-
-### Communication
-- First author papers published in scientific journals
-- Oral presentations given at international conferences
-- Reviewed papers for academic journals
-
+<!--
 ### Strategic thinking
 - Identified inefficiencies in existing systems and worked with colleagues and external organisations to implement better solutions
-- Critically reviewed training course materials, teaching facilities, and subjects offered
+This is too vague -->
 
 ## Employment history
 `2015 - now`
 **Research Software Engineer**, Application Support, Research IT, University of Manchester
+
+### Training
 - Coordination of training program for teaching computing skills to researchers
-- Delivery of training courses on MATLAB, Git, LaTeX, Bash, Make
-- Application support (desktop and HPC) — diagnosing and solving software and
-programming problems, in person and via electronic help desk
-- Software installations on local and regional HPC systems
+- Delivery of training courses on a range of Research computing topics
+- Organisation training events from external providers (NAG, Archer, Maple)
+- Development of new training courses for Git and LaTeX
+- Overhaul of training course program --- reviewing materials, teaching facilities, subjects offered, and delivery style
+- Analysis of learner feedback to promote training to skills gap
+
+### Application support
+- Diagnosing and solving software and programming problems (desktop and HPC), in person, and via electronic help desk
+- Software installations on local and regional HPC systems (Python, OpenFOAM, WRF-Chem, Abaqus, VASP, third-party toolboxes for MATLAB)
 - Writing end-user documentation for HPC and desktop systems
 - Accelerating MATLAB code using vectorisation and parallelisation techniques
+
+### Software development
 - Long-term software development as part of a team, for the Institute of Coding —
-giving UG students formative feedback on software engineering course work
+  providing formative feedback to UG students on software engineering course work (python, GitLab API, Jenkins CI)
+- Refactoring of python scripts into an API for calculating the carbon cost of (air) travel (python, FastAPI, Wagtail)
 
 `2011-2015`
 **Research Associate**, Centre For Atmospheric Science, University of Manchester
 - Development of an existing atmospheric box model for representation of secondary
-organic aerosols in smog-chamber experiments
+organic aerosols in smog-chamber experiments (Fortran)
 - Collaborative intercomparison of simulations with another box model developed by
 the Karlsruhe Institute of Technology, Germany
 - Wrote and trained others in use of analysis software for laboratory measurements
