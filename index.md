@@ -26,7 +26,7 @@ Git, Make, SGE, Modulefiles, vectorisation, parallel programming, clean coding, 
 - Experienced instructor of 100+ training courses on Git, Make, Bash, MATLAB, LaTeX
 - Certified instructor for Software Carpentry
 - Certified instructor trainer for Software Carpentry
-- Regular contributor to Software Carpentry lesson materials
+- [Regular contributor][shell-commits] to Software Carpentry lesson materials
 
 
 ## Employment history
@@ -69,14 +69,14 @@ calibrations
 
 ## Voluntary responsibilities
 `2019 - now`
-Maintainer for Software Carpentry’s Unix shell lesson - developing teaching
+Maintainer for Software Carpentry’s [Unix shell lesson][shell-lesson] --- developing teaching
 materials and reviewing pull requests as part of a team
 
 `2018 - now`
-Maintainer for Software Carpentry’s MATLAB lesson
+Maintainer for Software Carpentry’s [MATLAB lesson][matlab-lesson]
 
 `2016 - now`
-Maintainer for Software Carpentry’s Make lesson
+Maintainer for Software Carpentry’s [Make lesson][make-lesson]
 
 
 ## Education
@@ -94,3 +94,7 @@ Quadrupole Aerosol Mass Spectrometer on board the UK BAe146 research aircraft
 - First year departmental prize for high achievement
 - Final year prizes for laboratory project and high achievement
 
+[shell-lesson]: https://github.com/swcarpentry/shell-novice
+[matlab-lesson]: https://github.com/swcarpentry/matlab-novice-inflammation/
+[make-lesson]: https://github.com/swcarpentry/make-novice
+[shell-commits]: https://github.com/swcarpentry/shell-novice/graphs/contributors
