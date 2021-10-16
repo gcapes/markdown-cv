@@ -28,10 +28,6 @@ Git, Make, SGE, Modulefiles, vectorisation, parallel programming, clean coding, 
 - Certified instructor trainer for Software Carpentry
 - Regular contributor to Software Carpentry lesson materials
 
-<!--
-### Strategic thinking
-- Identified inefficiencies in existing systems and worked with colleagues and external organisations to implement better solutions
-This is too vague -->
 
 ## Employment history
 `2015 - now`
@@ -97,8 +93,4 @@ Quadrupole Aerosol Mass Spectrometer on board the UK BAe146 research aircraft
 
 - First year departmental prize for high achievement
 - Final year prizes for laboratory project and high achievement
-
-`1998 - 2000`
-**A levels**, Colchester Royal Grammar School.
-Physics (A), German (A), Economics (A), Maths (B).
 
