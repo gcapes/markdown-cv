@@ -19,8 +19,8 @@ A natural problem solver, and able to learn new skills quickly.
 ### Languages
 Python, MATLAB, Bash, LaTeX, Markdown, Fortran (html, css)
 
-### Frameworks/tools/packages/approaches
-Git, Make, SGE, Modulefiles, vectorisation, parallel programming, clean coding, OOP, TDD
+### Tools/approaches
+Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding
 
 ### Teaching
 - Experienced instructor of 100+ training courses on Git, Make, Bash, MATLAB, LaTeX
