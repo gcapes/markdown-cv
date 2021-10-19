@@ -73,7 +73,7 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: "Computer Modern Serif",Menlo,monospace,sans-serif;
 	color: #ccc;
@@ -85,7 +85,7 @@ p code {
 }
 
 
-ul { 
+ul {
 	position: relative;
 	left: 28%;
 	width: 65%;
@@ -128,7 +128,7 @@ h1 {
 	left: 28%;
 }
 
-h1+p { 
+h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
@@ -147,7 +147,7 @@ h2 {
 
 h3 {
 	font-size: 1em;
-	line-height: 2em; 
+	line-height: 2em;
 	color: #ccc;
 	position: relative;
 	top: 1.6em;
@@ -179,7 +179,7 @@ a:hover {
 
 em {
 	font-style: normal;
-	color: #2d4e5e 
+	color: #2d4e5e
 }
 
 strong {
