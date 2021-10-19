@@ -17,10 +17,10 @@ A natural problem solver, and able to learn new skills quickly.
 ## Skills
 
 ### Languages
-Python, MATLAB, Bash, LaTeX, Markdown, Fortran (html, css)
+Python, MATLAB, Bash, LaTeX, Markdown, Fortran, HTML, CSS
 
 ### Tools/approaches
-Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding
+Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, reveal.js
 
 ### Teaching
 - Experienced instructor of 100+ training courses on Git, Make, Bash, MATLAB, LaTeX
