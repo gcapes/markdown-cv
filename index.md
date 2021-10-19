@@ -48,7 +48,7 @@ Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, 
 - Accelerating MATLAB code using vectorisation and parallelisation techniques
 
 ### Software development
-- Long-term software development as part of a team, for the Institute of Coding —
+- Long-term software development as part of a team, for the Institute of Coding ---
   providing formative feedback to UG students on software engineering course work (python, GitLab API, Jenkins CI)
 - Refactoring of python scripts into an API for calculating the carbon cost of (air) travel (python, FastAPI, Wagtail)
 
