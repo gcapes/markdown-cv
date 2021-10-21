@@ -29,7 +29,7 @@ Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, 
 - [Regular contributor][shell-commits] to Software Carpentry lesson materials
 
 
-## Employment history
+## Experience
 `2015–now`
 **Research Software Engineer**, Application Support, Research IT, University of Manchester
 
@@ -67,7 +67,7 @@ range of instrumentation (aircraft measurements and ground based field work)
 - Responsible for managing a field site, diagnosing instrument faults and performing
 calibrations
 
-## Voluntary responsibilities
+## Volunteering
 `2019–now`
 Maintainer for Software Carpentry’s [Unix shell lesson][shell-lesson] --- developing teaching
 materials and reviewing pull requests as part of a team
