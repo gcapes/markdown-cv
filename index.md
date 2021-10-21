@@ -10,8 +10,8 @@ Research Software Engineer
 
 Diligent and meticulous with a strong, broad academic background and a thirst for knowledge.
 Highly skilled in computer programming, and analysis of complex data sets.
-A confident teacher with excellent written English, and ability to clearly explain complex ideas.
-A natural problem solver, and able to learn new skills quickly.
+A confident teacher with excellent written English and ability to clearly explain complex ideas.
+A natural problem solver; able to learn new skills quickly.
 
 
 ## Skills
@@ -36,7 +36,7 @@ Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, 
 ### Training
 - Coordination of training program for teaching computing skills to researchers
 - Delivery of training courses on a range of Research computing topics
-- Organisation training events from external providers (NAG, Archer, Maple)
+- Organisation of training events from external providers (NAG, Archer, Maple)
 - Development of new training courses for Git and LaTeX
 - Overhaul of training course program --- reviewing materials, teaching facilities, subjects offered, and delivery style
 - Analysis of learner feedback to promote training to skills gap
