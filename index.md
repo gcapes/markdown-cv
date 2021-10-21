@@ -30,7 +30,7 @@ Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, 
 
 
 ## Employment history
-`2015 - now`
+`2015–now`
 **Research Software Engineer**, Application Support, Research IT, University of Manchester
 
 ### Training
@@ -52,7 +52,7 @@ Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, 
   providing formative feedback to UG students on software engineering course work (python, GitLab API, Jenkins CI)
 - Refactoring of python scripts into an API for calculating the carbon cost of (air) travel (python, FastAPI, Wagtail)
 
-`2011-2015`
+`2011–2015`
 **Research Associate**, Centre For Atmospheric Science, University of Manchester
 - Development of an existing atmospheric box model for representation of secondary
 organic aerosols in smog-chamber experiments (Fortran)
@@ -60,7 +60,7 @@ organic aerosols in smog-chamber experiments (Fortran)
 the Karlsruhe Institute of Technology, Germany
 - Wrote and trained others in use of analysis software for laboratory measurements
 
-`2008-2011`
+`2008–2011`
 **Research Associate**, Centre For Atmospheric Science, University of Manchester
 - Physical and chemical characterisation of atmospheric aerosol properties using a
 range of instrumentation (aircraft measurements and ground based field work)
@@ -68,26 +68,26 @@ range of instrumentation (aircraft measurements and ground based field work)
 calibrations
 
 ## Voluntary responsibilities
-`2019 - now`
+`2019–now`
 Maintainer for Software Carpentry’s [Unix shell lesson][shell-lesson] --- developing teaching
 materials and reviewing pull requests as part of a team
 
-`2018 - now`
+`2018–now`
 Maintainer for Software Carpentry’s [MATLAB lesson][matlab-lesson]
 
-`2016 - now`
+`2016–now`
 Maintainer for Software Carpentry’s [Make lesson][make-lesson]
 
 
 ## Education
-`2005 - 2009`
+`2005–2009`
 **PhD**, University of Manchester
 *Aging of biomass burning aerosols and formation of secondary organic aerosols over West Africa*
 
 - Physical and chemical characterisation of aerosol particles using an Aerodyne
 Quadrupole Aerosol Mass Spectrometer on board the UK BAe146 research aircraft
 
-`2000 - 2004`
+`2000–2004`
 **MPhys**, U.M.I.S.T., Manchester, First Class (Hons).
 *Physics with Study in Europe*
 
