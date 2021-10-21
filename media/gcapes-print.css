@@ -121,6 +121,7 @@ h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: "Computer Modern Serif", Cousine,Verdana,sans-serif;
 	width: 65%;
+	page-break-before: auto;
 }
 
 h1 {
