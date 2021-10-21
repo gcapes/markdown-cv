@@ -24,8 +24,8 @@ Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, 
 
 ### Teaching
 - Experienced instructor of 100+ training courses on Git, Make, Bash, MATLAB, LaTeX
-- Certified instructor for Software Carpentry
-- Certified instructor trainer for Software Carpentry
+- Certified [instructor] for Software Carpentry
+- Certified [trainer] for Software Carpentry
 - [Regular contributor][shell-commits] to Software Carpentry lesson materials
 
 
@@ -98,3 +98,5 @@ Quadrupole Aerosol Mass Spectrometer on board the UK BAe146 research aircraft
 [matlab-lesson]: https://github.com/swcarpentry/matlab-novice-inflammation/
 [make-lesson]: https://github.com/swcarpentry/make-novice
 [shell-commits]: https://github.com/swcarpentry/shell-novice/graphs/contributors
+[instructor]: https://carpentries.org/community/#instructors
+[trainer]: https://carpentries.org/community/#trainers
