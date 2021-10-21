@@ -47,6 +47,7 @@ Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, 
 - Writing end-user documentation for HPC and desktop systems
 - Accelerating MATLAB code using vectorisation and parallelisation techniques
 
+<div style="page-break-after: always;"></div>
 ### Software development
 - Long-term software development as part of a team, for the Institute of Coding ---
   providing formative feedback to UG students on software engineering course work (python, GitLab API, Jenkins CI)
