@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Gerard Capes
+title: Gerard_Capes
 ---
 # Gerard Capes
 Research Software Engineer
