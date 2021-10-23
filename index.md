@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Gerard Capes
+title: Gerard_Capes
 ---
 # Gerard Capes
 Research Software Engineer
@@ -35,7 +35,7 @@ Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, 
 
 ### Training
 - Coordination of training program for teaching computing skills to researchers
-- Delivery of training courses on a range of Research computing topics
+- Delivery of training courses on a range of research computing topics
 - Organisation of training events from external providers (NAG, Archer, Maple)
 - Development of new training courses for Git and LaTeX
 - Overhaul of training course program --- reviewing materials, teaching facilities, subjects offered, and delivery style
@@ -47,10 +47,11 @@ Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, 
 - Writing end-user documentation for HPC and desktop systems
 - Accelerating MATLAB code using vectorisation and parallelisation techniques
 
+<div style="page-break-after: always;"></div>
 ### Software development
 - Long-term software development as part of a team, for the Institute of Coding ---
   providing formative feedback to UG students on software engineering course work (python, GitLab API, Jenkins CI)
-- Refactoring of python scripts into an API for calculating the carbon cost of (air) travel (python, FastAPI, Wagtail)
+- Refactoring of python scripts into an API for calculating the carbon cost of air travel (python, FastAPI, Wagtail)
 
 `2011–2015`
 **Research Associate**, Centre For Atmospheric Science, University of Manchester
@@ -82,13 +83,15 @@ Maintainer for Software Carpentry’s [Make lesson][make-lesson]
 ## Education
 `2005–2009`
 **PhD**, University of Manchester
+
 *Aging of biomass burning aerosols and formation of secondary organic aerosols over West Africa*
 
 - Physical and chemical characterisation of aerosol particles using an Aerodyne
 Quadrupole Aerosol Mass Spectrometer on board the UK BAe146 research aircraft
 
 `2000–2004`
-**MPhys**, U.M.I.S.T., Manchester, First Class (Hons).
+**MPhys**, U.M.I.S.T., Manchester, First Class (Hons)
+
 *Physics with Study in Europe*
 
 - First year departmental prize for high achievement
