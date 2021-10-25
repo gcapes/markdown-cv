@@ -108,6 +108,7 @@ li {
 	padding-left: 1.25em;
 	text-indent: -1.25em;
 	/*color: #777;*/
+	page-break-inside: avoid;
 }
 
 li ul {
