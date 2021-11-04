@@ -6,6 +6,9 @@ title: Gerard_Capes
 Research Software Engineer
 
 
+<a href="mailto:gerardcapes@gmail.com" target="blank"><img align="right" src="media/icons/icon-email.svg" alt="email me" height="30" width="30"/></a>
+<a href="https://github.com/gcapes" target="blank"><img align="right" src="media/icons/github.svg" alt="my github" height="30" width="30"/></a>
+
 ## Profile
 
 Diligent and meticulous with a strong, broad academic background and a thirst for knowledge.
