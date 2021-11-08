@@ -5,8 +5,8 @@ title: Gerard_Capes
 # Gerard Capes
 Research Software Engineer
 
-<a href="mailto:gerardcapes@gmail.com" target="blank" class="icon"><img src="media/icons/icon-email.svg" alt="email me" height="30" width="30"/></a>
-<a href="https://github.com/gcapes" target="blank" class="icon"><img src="media/icons/github.svg" alt="my github" height="30" width="30"/></a>
+[![email](media/icons/icon-email.svg)](mailto:gerardcapes@gmail.com)
+[![github](media/icons/github.svg)](https://github.com/gcapes)
 
 ## Profile
 

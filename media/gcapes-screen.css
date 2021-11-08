@@ -193,8 +193,10 @@ strong {
 	make one column somehow...
 }*/
 
-.icon {
+img {
 	margin-right: 1px;
 	margin-left: 1px;
 	float: right;
+	width: 30px;
+	height: 30px;
 }
