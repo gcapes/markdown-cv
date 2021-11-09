@@ -192,3 +192,11 @@ strong {
 @media only screen and (max-width: 480px) {
 	make one column somehow...
 }*/
+
+img {
+	margin-right: 1px;
+	margin-left: 1px;
+	float: right;
+	width: 30px;
+	height: 30px;
+}
