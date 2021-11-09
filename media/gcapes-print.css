@@ -198,4 +198,10 @@ strong {
 	page-break-before: always;
 }
 
-
+img {
+	margin-right: 1px;
+	margin-left: 1px;
+	float: right;
+	width: 25px;
+	height: 25px;
+}
