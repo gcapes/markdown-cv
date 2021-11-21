@@ -64,7 +64,7 @@ the Karlsruhe Institute of Technology, Germany
 
 `2008–2011`
 **Research Associate**, Centre For Atmospheric Science, University of Manchester
-- Physical and chemical characterisation of atmospheric aerosol properties using a
+- Physical and chemical characterisation of atmospheric aerosol particles using a
 range of instrumentation (aircraft measurements and ground based field work)
 - Responsible for managing a field site, diagnosing instrument faults and performing
 calibrations
