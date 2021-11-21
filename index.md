@@ -32,7 +32,7 @@ Git, Make, OOP, TDD, vectorisation, parallel programming, clean coding, jekyll, 
 
 
 ## Experience
-`2015–now`
+`2015–2021`
 **Research Software Engineer**, Application Support, Research IT, University of Manchester
 
 ### Training
