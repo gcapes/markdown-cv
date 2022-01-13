@@ -102,5 +102,5 @@ Quadrupole Aerosol Mass Spectrometer on board the UK BAe146 research aircraft
 [matlab-lesson]: https://github.com/swcarpentry/matlab-novice-inflammation/
 [make-lesson]: https://github.com/swcarpentry/make-novice
 [shell-commits]: https://github.com/swcarpentry/shell-novice/graphs/contributors
-[instructor]: https://carpentries.org/community/#instructors
-[trainer]: https://carpentries.org/community/#trainers
+[instructor]: https://carpentries.org/instructors
+[trainer]: https://carpentries.org/trainers
